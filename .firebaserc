@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "darknetz",
+    "darknetz": "darknetz"
+  },
+  "targets": {}
+}
